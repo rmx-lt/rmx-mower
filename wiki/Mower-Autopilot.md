@@ -7,8 +7,7 @@
 ## Related pages
 
 - [Mower-Hardware](Mower-Hardware): the two boards and the UART link between them
-- [Mower-Gateway](Mower-Gateway): the board that carries the LTE link to the server
-- [Mower-Gateway-Probe](Mower-Gateway-Probe): the diagnostic firmware for that link
+- [Mower-Gateway](Mower-Gateway): the firmware on the board that carries the LTE link to the server
 
 ## Work
 
